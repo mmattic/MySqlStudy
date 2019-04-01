@@ -1,2 +1,2 @@
-# mysqlStudy
+# MySqlStudy
 learn for mysql
